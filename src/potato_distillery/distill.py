@@ -1,4 +1,4 @@
-from utils import validate
+from .utils import validate
 from transformers import AutoModelForCausalLM, AutoModelForMaskedLM
 
 
